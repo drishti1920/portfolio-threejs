@@ -1,5 +1,5 @@
 {
-  "name": "mocha-app",
+  "name": "Drishti POrtfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "vite-gh-pages"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
@@ -21,7 +22,6 @@
     "react-router-dom": "^7.5.3"
   },
   "devDependencies": {
-    "@getmocha/vite-plugins": "^1.4.16",
     "@types/react": "^18.3.6",
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.3.1",
@@ -30,6 +30,7 @@
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.14",
     "typescript": "^5.5.3",
-    "vite": "^6.2.1"
+    "vite": "^6.2.1",
+    "vite-plugin-gh-pages": "^1.0.1"
   }
 }

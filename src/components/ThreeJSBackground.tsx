@@ -1,10 +1,12 @@
 import { useRef, useEffect } from 'react';
 import { Canvas, useFrame, useThree } from '@react-three/fiber';
 import { useScroll } from 'framer-motion';
-import { Sphere, OrbitControls } from '@react-three/drei';
+// import { Sphere, OrbitControls } from '@react-three/drei';
+import { Sphere } from '@react-three/drei';
 
 function FloatingSphere({ position, size, color, speed = 1, offset = 0 }: 
   { position: [number, number, number], size: number, color: string, speed?: number, offset?: number }) {
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const ref = useRef<THREE.Mesh>(null);
   
   useFrame(({ clock }) => {
@@ -35,6 +37,7 @@ function ResponsiveCamera() {
 
 function Scene() {
   const { scrollYProgress } = useScroll();
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const group = useRef<THREE.Group>(null);
 
   useEffect(() => {
