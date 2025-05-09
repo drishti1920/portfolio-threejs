@@ -8,7 +8,7 @@ Welcome to my personal developer portfolio! This site showcases my skills, proje
 
 ## 📸 Screenshots
 
-![Homepage Screenshot](images/screenshot.png)
+![Homepage Screenshot](images/homepage.png)
 
 ## 🚀 Features
 
