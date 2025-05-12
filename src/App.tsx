@@ -53,6 +53,16 @@ const projects = [
     github: "https://github.com/drishti1920/dev-tools-hub",
     live: "https://dev-tool-hub.netlify.app/",
   },
+    {
+    title: "Icon Library",
+    description:
+      "An icon library for easy implementation in the project.",
+    tags: ["Vite", "TypeScript", "Tailwind"],
+    image:
+      "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=2072",
+    github: "https://github.com/drishti1920/icon-library",
+    live: "https://iconicvista.netlify.app/",
+  },
 ];
 
 const skills = [
