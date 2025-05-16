@@ -15,7 +15,6 @@ import Header from "./components/Header";
 import ContactForm from "./components/ContactForm";
 import "./index.css";
 
-// Project data
 const projects = [
   {
     title: "E-commerce Admin Panel",
