@@ -1,7 +1,6 @@
 import { useRef, useEffect } from "react";
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
 import { useScroll } from "framer-motion";
-// import { Sphere, OrbitControls } from '@react-three/drei';
 import { Sphere } from "@react-three/drei";
 
 function FloatingSphere({
