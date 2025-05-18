@@ -15,7 +15,6 @@ import Header from "./components/Header";
 import ContactForm from "./components/ContactForm";
 import "./index.css";
 
-// Project data
 const projects = [
   {
     title: "E-commerce Admin Panel",
@@ -53,6 +52,16 @@ const projects = [
     github: "https://github.com/drishti1920/dev-tools-hub",
     live: "https://dev-tool-hub.netlify.app/",
   },
+    {
+    title: "Icon Library",
+    description:
+      "An icon library for easy implementation in the project.",
+    tags: ["Vite", "TypeScript", "Tailwind"],
+    image:
+      "https://images.unsplash.com/photo-1744826874736-54ec3ff61a7b?q=80&w=2012&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    github: "https://github.com/drishti1920/icon-library",
+    live: "https://iconicvista.netlify.app/",
+  }
 ];
 
 const skills = [

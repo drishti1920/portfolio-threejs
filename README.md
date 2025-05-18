@@ -4,12 +4,11 @@ Welcome to my personal developer portfolio! This site showcases my skills, proje
 
 ## 🌐 Live Website
 
-👉 [View Portfolio](https://your-portfolio-link.com)
+👉 [View Portfolio](https://drishti1920.github.io/portfolio-threejs/)
 
 ## 📸 Screenshots
 
-![Homepage Screenshot](screenshots/homepage.png)
-![Project Section Screenshot](screenshots/projects.png)
+![Homepage Screenshot](images/homepage.png)
 
 ## 🚀 Features
 
@@ -42,7 +41,7 @@ my-portfolio/
 
 ## 🧑‍💻 Author
 
-- Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- Portfolio: [here](https://drishti1920.github.io/portfolio-threejs/)
 - GitHub: [@drishti1920](https://github.com/drishti1920)
 - LinkedIn: [Drishti Saraf](https://www.linkedin.com/in/drishti-saraf)
 
