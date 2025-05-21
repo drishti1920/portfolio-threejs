@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio! This site showcases my skills, proje
 
 ## 🌐 Live Website
 
-👉 [View Portfolio](https://drishti1920.github.io/portfolio-threejs/)
+👉 [View Portfolio](https://drishtisaraf.netlify.app/)
 
 ## 📸 Screenshots
 
@@ -41,7 +41,7 @@ my-portfolio/
 
 ## 🧑‍💻 Author
 
-- Portfolio: [here](https://drishti1920.github.io/portfolio-threejs/)
+- Portfolio: [here](https://drishtisaraf.netlify.app/)
 - GitHub: [@drishti1920](https://github.com/drishti1920)
 - LinkedIn: [Drishti Saraf](https://www.linkedin.com/in/drishti-saraf)
 
